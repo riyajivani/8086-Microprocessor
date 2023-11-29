@@ -1,3 +1,5 @@
+//find out the factorial of N.
+
 data SEGMENT
 	N DB 05h
 	fact DW ?
