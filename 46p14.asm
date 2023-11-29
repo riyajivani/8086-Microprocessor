@@ -1,3 +1,5 @@
+//take one character as input from user and simply print it.
+
 code SEGMENT
 	ASSUME cs:code
 start:
