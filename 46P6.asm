@@ -1,3 +1,5 @@
+//add terms of fibonacci series till N.
+
 data SEGMENT
 	N DW 000Ah
 	sum DW ?
