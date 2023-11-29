@@ -1,3 +1,5 @@
+// xor operation of two numbers
+
 data SEGMENT
 	n1 DW 1234h
 	n2 DW 3456h
@@ -14,3 +16,4 @@ start:
 	MOV BX,n2
 	
 	XOR AX,BX
+end start
