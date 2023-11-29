@@ -1,3 +1,5 @@
+//convert a capital letter string into small letter string.
+
 data SEGMENT
 	str DB "RIYA$"
 	ans DB 4 dup(0)
