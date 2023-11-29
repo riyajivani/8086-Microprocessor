@@ -1,3 +1,5 @@
+//take one capital letter from user and print the small letter of it.
+
 code SEGMENT
 	ASSUME cs:code
 start:
