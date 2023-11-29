@@ -1,3 +1,5 @@
+//addition of two numbers 
+
 data SEGMENT 
 	n1 DW 1234h
 	n2 DW 3456h
