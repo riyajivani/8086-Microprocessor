@@ -1,3 +1,5 @@
+//move string one from one location to another location and print that second location.
+
 data SEGMENT
 	str1 DB "Hello World$"
 	str2 DB 12 dup(0),'$'
