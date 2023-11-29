@@ -1,3 +1,5 @@
+//addition of all elements of given array
+
 data SEGMENT
 	block DW 1234H,5678H,2345H,5214H,0ABCDH
 	ans DW ?
