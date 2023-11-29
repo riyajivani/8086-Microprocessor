@@ -1,4 +1,4 @@
-take one character from input and convert it into capital and also print it
+//take one character from input and convert it into capital and also print it
 
 code SEGMENT
 	ASSUME cs:code
