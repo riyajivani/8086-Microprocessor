@@ -1,3 +1,5 @@
+// multiply array with some number(here multiply with 3)
+
 data SEGMENT
 	n DB 03h
 	val DB 12H,0A5h,0FFh,34h,98h
