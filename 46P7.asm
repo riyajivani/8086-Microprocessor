@@ -1,3 +1,5 @@
+//de morgan's law for (n1+n2)' = (n1' + n2')
+
 data SEGMENT
 	n1 DW 1234h
 	n2 DW 4321h
