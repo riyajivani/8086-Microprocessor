@@ -1,3 +1,5 @@
+//find out hte smallest number from the given array
+
 data SEGMENT
 	block DW 0003h,0001h,0002h,0005h,0004h 
 		DW ?
