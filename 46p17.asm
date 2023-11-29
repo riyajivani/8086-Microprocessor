@@ -1,3 +1,5 @@
+// copy string from one segment to another segment in same file
+
 data SEGMENT
 	str1 DB "Hello World$"
 data ENDS
