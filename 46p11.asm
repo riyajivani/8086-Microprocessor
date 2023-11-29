@@ -1,3 +1,5 @@
+//sorting of given array
+
 data SEGMENT
 	block DB 05h,23h,0A2h,66h,12h,7Dh
 data ENDS
