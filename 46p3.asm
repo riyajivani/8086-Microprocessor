@@ -1,3 +1,5 @@
+//calculating the table of 10 and storing the values in array
+
 data SEGMENT
 	n DB 0AH
 	val DB 01H,02H,03H,04H,05H,06H,07H,08H,09H,0AH
