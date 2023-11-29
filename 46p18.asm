@@ -1,3 +1,5 @@
+//take two number as input from user and calculate the addition of that two numbers using the near procedure method.
+
 data SEGMENT
 	mes1 DB "enter two numbers: $"
 	n1 DB 2 DUP(0),'$'
